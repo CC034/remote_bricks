@@ -98,7 +98,7 @@ Create a web application with two main features:
 
 **Outputs**
 
-![Opening Page](C:\Users\prava\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 195747.png)
+![Opening Page]("C:\Users\prava\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 195747.png")
 
 **Setup and Usage:**
 

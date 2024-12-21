@@ -126,7 +126,7 @@ Create a web application with two main features:
     yarn start
     ```
 
-5.  Open your browser at `http://localhost:3000`.
+5.  Open your browser at `http://localhost:3001`.
 
 **Key Improvements and Corrections:**
 

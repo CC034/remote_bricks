@@ -96,6 +96,10 @@ Create a web application with two main features:
 
 *   The application uses React Router to navigate between the "Todo List" (path `/`) and the "Employee List" (path `/employees`).
 
+**Outputs**
+
+![Opening Page](C:\Users\prava\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 195747.png)
+
 **Setup and Usage:**
 
 1.  **Clone the repository:**

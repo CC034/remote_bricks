@@ -98,8 +98,7 @@ Create a web application with two main features:
 
 **Outputs**
 
-![Opening Page]("C:\Users\prava\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 195747.png")
-
+The output images are displayed in the Ouputs folder clearly
 **Setup and Usage:**
 
 1.  **Clone the repository:**

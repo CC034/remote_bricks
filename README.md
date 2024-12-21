@@ -1,23 +1,4 @@
-# Todo List and Employee List Application with React and Redux
 
-This project is a simple web application built with React, Redux, React Router, and Material UI. It fulfills the following assignment requirements:
-
-**Assignment Objectives:**
-
-Create a web application with two main features:
-
-1.  **Todo List:** A fully functional todo list application allowing users to add, view, edit, delete, toggle completion status, and clear all todo items. The todo list's state should be managed using Redux and Redux Thunk.
-2.  **Employee List:** A page that displays a list of employees fetched from a public API using `axios`.
-
-**Technologies Used:**
-
-*   **React:** A JavaScript library for building user interfaces.
-*   **React Router:** A standard library for routing in React applications.
-*   **Redux:** A predictable state container for JavaScript apps.
-*   **Redux Toolkit:** Simplifies Redux development with utilities for store setup, reducer creation, and more.
-*   **Redux Thunk:** A middleware for Redux that allows writing action creators that return functions (thunks), enabling asynchronous logic.
-*   **Material UI (MUI):** A popular React UI framework that provides pre-designed components and styling.
-*   **Axios:** A promise-based HTTP client for making API requests.
 # Todo List and Employee List Application with React and Redux
 
 This project is a simple web application built with React, Redux, React Router, and Material UI. It fulfills the following assignment requirements:
